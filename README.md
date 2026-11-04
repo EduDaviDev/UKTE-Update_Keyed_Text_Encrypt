@@ -1,12 +1,12 @@
 # UKTE: Update Keyed Text Encrypt
 Encrypt text with a key
 
-click "Code>Download ZIP"
-when the download is finished,
-extract the ZIP file
-open a terminal on the extracted folder
-test `python --version`
-if there is an error, install python/pip
+click "Code>Download ZIP"<br>
+when the download is finished,<br>
+extract the ZIP file<br>
+open a terminal on the extracted folder<br>
+test `python --version`<br>
+if there is an error, install python/pip<br>
 rum `pip install -e .`
 
 ### Usage:
