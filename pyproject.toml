@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ukte"
+version = "0.1.0"
+description = "Update Keyed Text Encryption"
+requires-python = ">=3.9"
+
+[tool.setuptools]
+packages = ["ukte"]
